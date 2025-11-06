@@ -5,7 +5,7 @@ Right now, I'm studying Python, but I also plan to learn C# and C++.
 # My Social Media
 [![Steam](https://img.shields.io/badge/Steam-blue.svg?logo=Steam&logoColor=white)](https://steamcommunity.com/id/Mr_Rizen/)
 [![Gog](https://img.shields.io/badge/Gog-purple.svg?logo=Gog&logoColor=white)](https://www.gog.com/u/Mr_Rizen)
-[![Discord](https://img.shields.io/badge/Discord-dark.svg?logo=Discord&logoColor=white)](https://www.gog.com/u/Mr_Rizen)
+[![Discord](https://img.shields.io/badge/Discord-dark-purple.svg?logo=Discord&logoColor=white)](https://www.gog.com/u/Mr_Rizen)
                                 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)

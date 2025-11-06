@@ -3,8 +3,8 @@ What's up, my name is Rizen. <br>I am a Python developer. <br>I enjoy playing ga
 Right now, I'm studying Python, but I also plan to learn C# and C++.
 
 # My Social Media
-[![Steam](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY8u7gUcRgYYADZCaW0IJYsrtpl39x4_Z2cA&s)](https://steamcommunity.com/id/Mr_Rizen/)<br/>
-[![Gog](https://e7.pngegg.com/pngimages/532/838/png-clipart-gog-com-logo-computer-icons-symbol-miscellaneous-purple.png)](https://www.gog.com/u/Mr_Rizen)<br/>
+[![Steam](https://img.shields.io/badge/Steam-blue)](https://steamcommunity.com/id/Mr_Rizen/)
+[![Gog](https://img.shields.io/badge/Gog-purple)](https://www.gog.com/u/Mr_Rizen)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)

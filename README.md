@@ -6,7 +6,7 @@ Right now, I'm studying Python, but I also plan to learn C# and C++.
 [![Steam](https://img.shields.io/badge/Steam-blue.svg?logo=Steam&logoColor=white)](https://steamcommunity.com/id/Mr_Rizen/)
 [![Gog](https://img.shields.io/badge/Gog-purple.svg?logo=Gog&logoColor=white)](https://www.gog.com/u/Mr_Rizen)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_rizen08/)
-[![Discord](https://img.shields.io/badge/Discord-grey.svg?logo=Discord&logoColor=white)]
+![Discord](https://img.shields.io/badge/Discord-grey.svg?logo=Discord&logoColor=white)
 
                                 
 # 💻 Tech Stack:

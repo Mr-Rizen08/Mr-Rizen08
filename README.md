@@ -1,5 +1,5 @@
 # 🙂 About Me:
-What's up, my name is Rizen. <br>I am a Python developer. <br>I enjoy playing games, editing videos, watching anime <br>and building projects.  
+What's up, my name is Rizen. <br>I am a Python developer 💻. <br>I enjoy playing games 🎮, editing videos📱, watching anime <br>and building projects✌️😁.  
 Right now, I'm studying Python, but I also plan to learn C# and C++.
 
 # My Social Media

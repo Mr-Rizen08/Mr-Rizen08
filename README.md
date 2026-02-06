@@ -1,6 +1,6 @@
 # 🙂 About Me:
 What's up, my name is Rizen. <br>I am a Python developer 💻. <br>I enjoy playing games 🎮, editing videos📱, watching anime 👀 <br>and building projects✌️😁.  
-Right now, I'm studying Python, but I also plan to learn C# and C++ 🧐.
+Right now, I'm studying Python (Fastapi).
 
 # 💬 My Social Media:
 [![Steam](https://img.shields.io/badge/Steam-blue.svg?logo=Steam&logoColor=white)](https://steamcommunity.com/id/Mr_Rizen/)
